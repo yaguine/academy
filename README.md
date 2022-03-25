@@ -1,4 +1,4 @@
-# Academy Writeup (Hack The Box) by [yaguine](https://github.com/yaguine)
+# Academy Writeup (Hack The Box) by [yag1n3](https://github.com/yaguine)
 
 ---
 
